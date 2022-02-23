@@ -1,0 +1,16 @@
+{
+	"theme": "auto",
+      "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
+      "font_face": "cascadia mono",
+	
+	"font_size": 14,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"remember_open_files": false,
+	/*"theme": "auto",*/
+	"dark_theme": "Agila Monokai.sublime-theme",
+	"light_theme": "Agila Monokai.sublime-theme",
+}
